@@ -1,0 +1,926 @@
+{
+ "captured": "2026-10-19",
+ "noaa": {
+  "protons": [
+   {
+    "time_tag": "2026-10-09T09:00:00Z",
+    "satellite": 19,
+    "flux": 0.39569970965385437,
+    "energy": ">=10 MeV"
+   },
+   {
+    "time_tag": "2026-10-09T09:00:00Z",
+    "satellite": 19,
+    "flux": 0.18871192634105682,
+    "energy": ">=100 MeV"
+   },
+   {
+    "time_tag": "2026-10-09T10:00:00Z",
+    "satellite": 19,
+    "flux": 0.38347291946411133,
+    "energy": ">=10 MeV"
+   },
+   {
+    "time_tag": "2026-10-09T10:00:00Z",
+    "satellite": 19,
+    "flux": 0.21101069450378418,
+    "energy": ">=100 MeV"
+   },
+   {
+    "time_tag": "2026-10-09T11:00:00Z",
+    "satellite": 19,
+    "flux": 0.6108078360557556,
+    "energy": ">=10 MeV"
+   },
+   {
+    "time_tag": "2026-10-09T11:00:00Z",
+    "satellite": 19,
+    "flux": 0.23838922381401062,
+    "energy": ">=100 MeV"
+   },
+   {
+    "time_tag": "2026-10-09T12:00:00Z",
+    "satellite": 19,
+    "flux": 0.5852818489074707,
+    "energy": ">=10 MeV"
+   },
+   {
+    "time_tag": "2026-10-09T12:00:00Z",
+    "satellite": 19,
+    "flux": 0.23459522426128387,
+    "energy": ">=100 MeV"
+   },
+   {
+    "time_tag": "2026-10-09T13:00:00Z",
+    "satellite": 19,
+    "flux": 0.4650079905986786,
+    "energy": ">=10 MeV"
+   },
+   {
+    "time_tag": "2026-10-09T13:00:00Z",
+    "satellite": 19,
+    "flux": 0.20175409317016602,
+    "energy": ">=100 MeV"
+   },
+   {
+    "time_tag": "2026-10-09T14:00:00Z",
+    "satellite": 19,
+    "flux": 0.8082119226455688,
+    "energy": ">=10 MeV"
+   },
+   {
+    "time_tag": "2026-10-09T14:00:00Z",
+    "satellite": 19,
+    "flux": 0.2026437520980835,
+    "energy": ">=100 MeV"
+   },
+   {
+    "time_tag": "2026-10-09T14:30:00Z",
+    "satellite": 19,
+    "flux": 0.360389769077301,
+    "energy": ">=10 MeV"
+   },
+   {
+    "time_tag": "2026-10-09T14:30:00Z",
+    "satellite": 19,
+    "flux": 0.21635060012340546,
+    "energy": ">=100 MeV"
+   }
+  ],
+  "electrons": [
+   {
+    "time_tag": "2026-10-18T18:00:00Z",
+    "satellite": 19,
+    "flux": 237.3310546875,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-18T19:00:00Z",
+    "satellite": 19,
+    "flux": 277.702880859375,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-18T20:00:00Z",
+    "satellite": 19,
+    "flux": 310.2656555175781,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-18T21:00:00Z",
+    "satellite": 19,
+    "flux": 304.3117370605469,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-18T22:00:00Z",
+    "satellite": 19,
+    "flux": 191.2112274169922,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-18T23:00:00Z",
+    "satellite": 19,
+    "flux": 208.95687866210938,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T00:00:00Z",
+    "satellite": 19,
+    "flux": 136.9949188232422,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T01:00:00Z",
+    "satellite": 19,
+    "flux": 269.2479248046875,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T02:00:00Z",
+    "satellite": 19,
+    "flux": 152.05804443359375,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T03:00:00Z",
+    "satellite": 19,
+    "flux": 255.10276794433594,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T04:00:00Z",
+    "satellite": 19,
+    "flux": 268.1349792480469,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T05:00:00Z",
+    "satellite": 19,
+    "flux": 119.66703796386719,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T06:00:00Z",
+    "satellite": 19,
+    "flux": 258.1642761230469,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T07:00:00Z",
+    "satellite": 19,
+    "flux": 296.51544189453125,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T08:00:00Z",
+    "satellite": 19,
+    "flux": 334.2969055175781,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T09:00:00Z",
+    "satellite": 19,
+    "flux": 431.0117492675781,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T10:00:00Z",
+    "satellite": 19,
+    "flux": 154.585205078125,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T11:00:00Z",
+    "satellite": 19,
+    "flux": 342.14300537109375,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T12:00:00Z",
+    "satellite": 19,
+    "flux": 183.45916748046875,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T13:00:00Z",
+    "satellite": 19,
+    "flux": 278.14727783203125,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T14:00:00Z",
+    "satellite": 19,
+    "flux": 302.4877014160156,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T15:00:00Z",
+    "satellite": 19,
+    "flux": 392.85638427734375,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T16:00:00Z",
+    "satellite": 19,
+    "flux": 430.22589111328125,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T17:00:00Z",
+    "satellite": 19,
+    "flux": 472.97802734375,
+    "energy": ">=2 MeV"
+   },
+   {
+    "time_tag": "2026-10-19T17:40:00Z",
+    "satellite": 19,
+    "flux": 449.6478271484375,
+    "energy": ">=2 MeV"
+   }
+  ],
+  "xrays": [
+   {
+    "time_tag": "2026-10-17T02:00:00Z",
+    "flux": 6.291714385042724e-07,
+    "energy": "0.1-0.8nm"
+   },
+   {
+    "time_tag": "2026-10-17T03:00:00Z",
+    "flux": 6.632164399889007e-07,
+    "energy": "0.1-0.8nm"
+   },
+   {
+    "time_tag": "2026-10-17T03:35:00Z",
+    "flux": 7.464510645149858e-07,
+    "energy": "0.1-0.8nm"
+   }
+  ],
+  "flares": [
+   {
+    "begin_time": "2026-10-12T01:54:00Z",
+    "max_time": "2026-10-12T02:02:00Z",
+    "end_time": "2026-10-12T02:12:00Z",
+    "max_class": "C1.1"
+   },
+   {
+    "begin_time": "2026-10-12T07:39:00Z",
+    "max_time": "2026-10-12T07:47:00Z",
+    "end_time": "2026-10-12T07:51:00Z",
+    "max_class": "B9.3"
+   },
+   {
+    "begin_time": "2026-10-12T12:26:00Z",
+    "max_time": "2026-10-12T12:33:00Z",
+    "end_time": "2026-10-12T12:45:00Z",
+    "max_class": "B8.8"
+   },
+   {
+    "begin_time": "2026-10-12T19:09:00Z",
+    "max_time": "2026-10-12T19:16:00Z",
+    "end_time": "2026-10-12T19:20:00Z",
+    "max_class": "C1.0"
+   },
+   {
+    "begin_time": "2026-10-12T20:29:00Z",
+    "max_time": "2026-10-12T20:39:00Z",
+    "end_time": "2026-10-12T20:45:00Z",
+    "max_class": "C1.0"
+   },
+   {
+    "begin_time": "2026-10-12T23:48:00Z",
+    "max_time": "2026-10-12T23:53:00Z",
+    "end_time": "2026-10-12T23:58:00Z",
+    "max_class": "C1.0"
+   },
+   {
+    "begin_time": "2026-10-13T03:29:00Z",
+    "max_time": "2026-10-13T03:40:00Z",
+    "end_time": "2026-10-13T03:47:00Z",
+    "max_class": "C1.2"
+   },
+   {
+    "begin_time": "2026-10-13T16:08:00Z",
+    "max_time": "2026-10-13T16:32:00Z",
+    "end_time": "2026-10-13T16:43:00Z",
+    "max_class": "C4.2"
+   },
+   {
+    "begin_time": "2026-10-13T21:42:00Z",
+    "max_time": "2026-10-13T21:50:00Z",
+    "end_time": "2026-10-13T21:55:00Z",
+    "max_class": "B9.9"
+   },
+   {
+    "begin_time": "2026-10-14T00:49:00Z",
+    "max_time": "2026-10-14T01:06:00Z",
+    "end_time": "2026-10-14T01:16:00Z",
+    "max_class": "B9.7"
+   },
+   {
+    "begin_time": "2026-10-14T01:59:00Z",
+    "max_time": "2026-10-14T02:21:00Z",
+    "end_time": "2026-10-14T02:39:00Z",
+    "max_class": "C6.9"
+   },
+   {
+    "begin_time": "2026-10-14T03:49:00Z",
+    "max_time": "2026-10-14T03:56:00Z",
+    "end_time": "2026-10-14T04:02:00Z",
+    "max_class": "C1.1"
+   },
+   {
+    "begin_time": "2026-10-14T13:16:00Z",
+    "max_time": "2026-10-14T13:24:00Z",
+    "end_time": "2026-10-14T13:28:00Z",
+    "max_class": "C1.0"
+   },
+   {
+    "begin_time": "2026-10-14T13:28:00Z",
+    "max_time": "2026-10-14T13:36:00Z",
+    "end_time": "2026-10-14T13:39:00Z",
+    "max_class": "C1.3"
+   },
+   {
+    "begin_time": "2026-10-14T14:26:00Z",
+    "max_time": "2026-10-14T14:34:00Z",
+    "end_time": "2026-10-14T14:39:00Z",
+    "max_class": "C1.3"
+   },
+   {
+    "begin_time": "2026-10-14T14:40:00Z",
+    "max_time": "2026-10-14T14:44:00Z",
+    "end_time": "2026-10-14T14:47:00Z",
+    "max_class": "C1.9"
+   },
+   {
+    "begin_time": "2026-10-14T15:48:00Z",
+    "max_time": "2026-10-14T15:57:00Z",
+    "end_time": "2026-10-14T16:04:00Z",
+    "max_class": "C2.2"
+   },
+   {
+    "begin_time": "2026-10-15T01:34:00Z",
+    "max_time": "2026-10-15T01:43:00Z",
+    "end_time": "2026-10-15T01:48:00Z",
+    "max_class": "B9.4"
+   },
+   {
+    "begin_time": "2026-10-15T02:00:00Z",
+    "max_time": "2026-10-15T02:07:00Z",
+    "end_time": "2026-10-15T02:21:00Z",
+    "max_class": "C2.8"
+   },
+   {
+    "begin_time": "2026-10-15T07:20:00Z",
+    "max_time": "2026-10-15T07:27:00Z",
+    "end_time": "2026-10-15T07:32:00Z",
+    "max_class": "C1.0"
+   },
+   {
+    "begin_time": "2026-10-15T13:55:00Z",
+    "max_time": "2026-10-15T14:02:00Z",
+    "end_time": "2026-10-15T14:05:00Z",
+    "max_class": "C1.3"
+   },
+   {
+    "begin_time": "2026-10-15T14:13:00Z",
+    "max_time": "2026-10-15T14:19:00Z",
+    "end_time": "2026-10-15T14:23:00Z",
+    "max_class": "C1.0"
+   },
+   {
+    "begin_time": "2026-10-15T15:11:00Z",
+    "max_time": "2026-10-15T15:17:00Z",
+    "end_time": "2026-10-15T15:20:00Z",
+    "max_class": "C1.4"
+   },
+   {
+    "begin_time": "2026-10-15T15:49:00Z",
+    "max_time": "2026-10-15T15:55:00Z",
+    "end_time": "2026-10-15T15:59:00Z",
+    "max_class": "C4.9"
+   },
+   {
+    "begin_time": "2026-10-15T17:32:00Z",
+    "max_time": "2026-10-15T17:55:00Z",
+    "end_time": "2026-10-15T18:03:00Z",
+    "max_class": "C2.8"
+   },
+   {
+    "begin_time": "2026-10-15T20:50:00Z",
+    "max_time": "2026-10-15T20:56:00Z",
+    "end_time": "2026-10-15T20:59:00Z",
+    "max_class": "C1.1"
+   },
+   {
+    "begin_time": "2026-10-15T21:31:00Z",
+    "max_time": "2026-10-15T21:36:00Z",
+    "end_time": "2026-10-15T21:46:00Z",
+    "max_class": "C1.0"
+   },
+   {
+    "begin_time": "2026-10-15T23:53:00Z",
+    "max_time": "2026-10-15T23:59:00Z",
+    "end_time": "2026-10-16T00:04:00Z",
+    "max_class": "C1.9"
+   },
+   {
+    "begin_time": "2026-10-16T00:04:00Z",
+    "max_time": "2026-10-16T00:19:00Z",
+    "end_time": "2026-10-16T00:27:00Z",
+    "max_class": "C3.1"
+   },
+   {
+    "begin_time": "2026-10-16T01:04:00Z",
+    "max_time": "2026-10-16T01:17:00Z",
+    "end_time": "2026-10-16T01:31:00Z",
+    "max_class": "C3.0"
+   },
+   {
+    "begin_time": "2026-10-16T03:26:00Z",
+    "max_time": "2026-10-16T03:34:00Z",
+    "end_time": "2026-10-16T03:37:00Z",
+    "max_class": "C1.6"
+   },
+   {
+    "begin_time": "2026-10-16T04:20:00Z",
+    "max_time": "2026-10-16T04:31:00Z",
+    "end_time": "2026-10-16T04:45:00Z",
+    "max_class": "C1.7"
+   },
+   {
+    "begin_time": "2026-10-16T06:14:00Z",
+    "max_time": "2026-10-16T06:22:00Z",
+    "end_time": "2026-10-16T06:30:00Z",
+    "max_class": "C1.3"
+   },
+   {
+    "begin_time": "2026-10-16T10:42:00Z",
+    "max_time": "2026-10-16T10:54:00Z",
+    "end_time": "2026-10-16T11:04:00Z",
+    "max_class": "C1.5"
+   },
+   {
+    "begin_time": "2026-10-16T11:04:00Z",
+    "max_time": "2026-10-16T11:08:00Z",
+    "end_time": "2026-10-16T11:10:00Z",
+    "max_class": "C1.4"
+   },
+   {
+    "begin_time": "2026-10-16T18:59:00Z",
+    "max_time": "2026-10-16T19:06:00Z",
+    "end_time": "2026-10-16T19:11:00Z",
+    "max_class": "C2.1"
+   },
+   {
+    "begin_time": "2026-10-16T19:11:00Z",
+    "max_time": "2026-10-16T19:14:00Z",
+    "end_time": "2026-10-16T19:16:00Z",
+    "max_class": "C6.0"
+   },
+   {
+    "begin_time": "2026-10-16T21:03:00Z",
+    "max_time": "2026-10-16T21:10:00Z",
+    "end_time": "2026-10-16T21:13:00Z",
+    "max_class": "C1.5"
+   },
+   {
+    "begin_time": "2026-10-16T22:24:00Z",
+    "max_time": "2026-10-16T22:32:00Z",
+    "end_time": "2026-10-16T22:38:00Z",
+    "max_class": "C1.2"
+   },
+   {
+    "begin_time": "2026-10-16T22:59:00Z",
+    "max_time": "2026-10-16T23:06:00Z",
+    "end_time": "2026-10-16T23:12:00Z",
+    "max_class": "C1.0"
+   },
+   {
+    "begin_time": "2026-10-17T00:41:00Z",
+    "max_time": "2026-10-17T00:48:00Z",
+    "end_time": "2026-10-17T00:55:00Z",
+    "max_class": "B8.7"
+   },
+   {
+    "begin_time": "2026-10-17T03:58:00Z",
+    "max_time": "2026-10-17T04:10:00Z",
+    "end_time": "2026-10-17T04:15:00Z",
+    "max_class": "C2.8"
+   },
+   {
+    "begin_time": "2026-10-17T05:18:00Z",
+    "max_time": "2026-10-17T05:23:00Z",
+    "end_time": "2026-10-17T05:31:00Z",
+    "max_class": "B9.5"
+   },
+   {
+    "begin_time": "2026-10-17T06:22:00Z",
+    "max_time": "2026-10-17T06:30:00Z",
+    "end_time": "2026-10-17T06:40:00Z",
+    "max_class": "C1.2"
+   },
+   {
+    "begin_time": "2026-10-17T09:32:00Z",
+    "max_time": "2026-10-17T09:41:00Z",
+    "end_time": "2026-10-17T09:47:00Z",
+    "max_class": "B8.6"
+   },
+   {
+    "begin_time": "2026-10-17T09:47:00Z",
+    "max_time": "2026-10-17T09:52:00Z",
+    "end_time": "2026-10-17T09:57:00Z",
+    "max_class": "B8.2"
+   },
+   {
+    "begin_time": "2026-10-17T12:32:00Z",
+    "max_time": "2026-10-17T12:39:00Z",
+    "end_time": "2026-10-17T12:45:00Z",
+    "max_class": "C1.5"
+   },
+   {
+    "begin_time": "2026-10-17T15:22:00Z",
+    "max_time": "2026-10-17T15:26:00Z",
+    "end_time": "2026-10-17T15:29:00Z",
+    "max_class": "C1.4"
+   },
+   {
+    "begin_time": "2026-10-17T15:36:00Z",
+    "max_time": "2026-10-17T15:40:00Z",
+    "end_time": "2026-10-17T15:44:00Z",
+    "max_class": "C1.7"
+   },
+   {
+    "begin_time": "2026-10-17T17:15:00Z",
+    "max_time": "2026-10-17T17:23:00Z",
+    "end_time": "2026-10-17T17:33:00Z",
+    "max_class": "B7.6"
+   },
+   {
+    "begin_time": "2026-10-17T20:06:00Z",
+    "max_time": "2026-10-17T20:17:00Z",
+    "end_time": "2026-10-17T20:28:00Z",
+    "max_class": "C1.1"
+   },
+   {
+    "begin_time": "2026-10-17T23:19:00Z",
+    "max_time": "2026-10-17T23:26:00Z",
+    "end_time": "2026-10-17T23:38:00Z",
+    "max_class": "C1.5"
+   },
+   {
+    "begin_time": "2026-10-18T03:32:00Z",
+    "max_time": "2026-10-18T03:53:00Z",
+    "end_time": "2026-10-18T04:09:00Z",
+    "max_class": "C3.4"
+   },
+   {
+    "begin_time": "2026-10-18T06:27:00Z",
+    "max_time": "2026-10-18T06:44:00Z",
+    "end_time": "2026-10-18T06:57:00Z",
+    "max_class": "C3.7"
+   },
+   {
+    "begin_time": "2026-10-18T10:45:00Z",
+    "max_time": "2026-10-18T10:50:00Z",
+    "end_time": "2026-10-18T10:53:00Z",
+    "max_class": "C1.3"
+   },
+   {
+    "begin_time": "2026-10-18T14:31:00Z",
+    "max_time": "2026-10-18T14:42:00Z",
+    "end_time": "2026-10-18T14:51:00Z",
+    "max_class": "B8.6"
+   },
+   {
+    "begin_time": "2026-10-18T17:11:00Z",
+    "max_time": "2026-10-18T17:18:00Z",
+    "end_time": "2026-10-18T17:22:00Z",
+    "max_class": "B9.6"
+   },
+   {
+    "begin_time": "2026-10-18T19:10:00Z",
+    "max_time": "2026-10-18T19:17:00Z",
+    "end_time": "2026-10-18T19:28:00Z",
+    "max_class": "C2.1"
+   }
+  ],
+  "probabilities": [
+   {
+    "date": "2026-10-13",
+    "c_class_1_day": 75,
+    "c_class_2_day": 75,
+    "c_class_3_day": 75,
+    "m_class_1_day": 20,
+    "m_class_2_day": 20,
+    "m_class_3_day": 20,
+    "x_class_1_day": 5,
+    "x_class_2_day": 5,
+    "x_class_3_day": 5,
+    "10mev_protons_1_day": 5,
+    "10mev_protons_2_day": 5,
+    "10mev_protons_3_day": 5,
+    "polar_cap_absorption": "green"
+   },
+   {
+    "date": "2026-10-14",
+    "c_class_1_day": 75,
+    "c_class_2_day": 75,
+    "c_class_3_day": 75,
+    "m_class_1_day": 20,
+    "m_class_2_day": 20,
+    "m_class_3_day": 20,
+    "x_class_1_day": 5,
+    "x_class_2_day": 5,
+    "x_class_3_day": 5,
+    "10mev_protons_1_day": 5,
+    "10mev_protons_2_day": 1,
+    "10mev_protons_3_day": 1,
+    "polar_cap_absorption": "green"
+   },
+   {
+    "date": "2026-10-15",
+    "c_class_1_day": 75,
+    "c_class_2_day": 75,
+    "c_class_3_day": 75,
+    "m_class_1_day": 20,
+    "m_class_2_day": 20,
+    "m_class_3_day": 20,
+    "x_class_1_day": 5,
+    "x_class_2_day": 5,
+    "x_class_3_day": 5,
+    "10mev_protons_1_day": 5,
+    "10mev_protons_2_day": 1,
+    "10mev_protons_3_day": 1,
+    "polar_cap_absorption": "green"
+   }
+  ],
+  "forecast45": {
+   "issued": "2026-10-17",
+   "product": "45-day Ap and F10.7cm Flux Forecast",
+   "data": [
+    {
+     "time": "2026-10-17T00:00:00Z",
+     "metric": "ap",
+     "value": 10
+    },
+    {
+     "time": "2026-10-17T00:00:00Z",
+     "metric": "f107",
+     "value": 130
+    },
+    {
+     "time": "2026-10-18T00:00:00Z",
+     "metric": "ap",
+     "value": 5
+    },
+    {
+     "time": "2026-10-18T00:00:00Z",
+     "metric": "f107",
+     "value": 125
+    },
+    {
+     "time": "2026-10-19T00:00:00Z",
+     "metric": "ap",
+     "value": 5
+    },
+    {
+     "time": "2026-10-19T00:00:00Z",
+     "metric": "f107",
+     "value": 125
+    },
+    {
+     "time": "2026-10-20T00:00:00Z",
+     "metric": "ap",
+     "value": 14
+    },
+    {
+     "time": "2026-10-20T00:00:00Z",
+     "metric": "f107",
+     "value": 125
+    },
+    {
+     "time": "2026-10-21T00:00:00Z",
+     "metric": "ap",
+     "value": 20
+    },
+    {
+     "time": "2026-10-21T00:00:00Z",
+     "metric": "f107",
+     "value": 115
+    },
+    {
+     "time": "2026-10-22T00:00:00Z",
+     "metric": "ap",
+     "value": 15
+    },
+    {
+     "time": "2026-10-22T00:00:00Z",
+     "metric": "f107",
+     "value": 110
+    },
+    {
+     "time": "2026-10-23T00:00:00Z",
+     "metric": "ap",
+     "value": 12
+    },
+    {
+     "time": "2026-10-23T00:00:00Z",
+     "metric": "f107",
+     "value": 110
+    },
+    {
+     "time": "2026-10-24T00:00:00Z",
+     "metric": "ap",
+     "value": 10
+    },
+    {
+     "time": "2026-10-24T00:00:00Z",
+     "metric": "f107",
+     "value": 95
+    },
+    {
+     "time": "2026-10-25T00:00:00Z",
+     "metric": "ap",
+     "value": 5
+    },
+    {
+     "time": "2026-10-25T00:00:00Z",
+     "metric": "f107",
+     "value": 95
+    },
+    {
+     "time": "2026-10-26T00:00:00Z",
+     "metric": "ap",
+     "value": 5
+    },
+    {
+     "time": "2026-10-26T00:00:00Z",
+     "metric": "f107",
+     "value": 105
+    },
+    {
+     "time": "2026-10-27T00:00:00Z",
+     "metric": "ap",
+     "value": 5
+    },
+    {
+     "time": "2026-10-27T00:00:00Z",
+     "metric": "f107",
+     "value": 110
+    },
+    {
+     "time": "2026-10-28T00:00:00Z",
+     "metric": "ap",
+     "value": 5
+    },
+    {
+     "time": "2026-10-28T00:00:00Z",
+     "metric": "f107",
+     "value": 110
+    },
+    {
+     "time": "2026-10-29T00:00:00Z",
+     "metric": "ap",
+     "value": 5
+    },
+    {
+     "time": "2026-10-29T00:00:00Z",
+     "metric": "f107",
+     "value": 110
+    },
+    {
+     "time": "2026-10-30T00:00:00Z",
+     "metric": "ap",
+     "value": 5
+    },
+    {
+     "time": "2026-10-30T00:00:00Z",
+     "metric": "f107",
+     "value": 110
+    },
+    {
+     "time": "2026-10-31T00:00:00Z",
+     "metric": "ap",
+     "value": 30
+    },
+    {
+     "time": "2026-10-31T00:00:00Z",
+     "metric": "f107",
+     "value": 105
+    },
+    {
+     "time": "2026-11-01T00:00:00Z",
+     "metric": "ap",
+     "value": 25
+    },
+    {
+     "time": "2026-11-01T00:00:00Z",
+     "metric": "f107",
+     "value": 105
+    }
+   ]
+  }
+ },
+ "donki_flr": [
+  {
+   "flrID": "2026-08-30T01:10:00-FLR-001",
+   "beginTime": "2026-08-30T01:10Z",
+   "peakTime": "2026-08-30T01:20Z",
+   "classType": "C3.0",
+   "sourceLocation": "N12E90"
+  },
+  {
+   "flrID": "2026-08-31T03:31:00-FLR-001",
+   "beginTime": "2026-08-31T03:31Z",
+   "peakTime": "2026-08-31T03:33Z",
+   "classType": "C1.0",
+   "sourceLocation": "N12E80"
+  },
+  {
+   "flrID": "2026-09-01T21:04:00-FLR-001",
+   "beginTime": "2026-09-01T21:04Z",
+   "peakTime": "2026-09-01T21:10Z",
+   "classType": "C5.7",
+   "sourceLocation": "N15E90"
+  },
+  {
+   "flrID": "2026-09-02T18:57:00-FLR-001",
+   "beginTime": "2026-09-02T18:57Z",
+   "peakTime": "2026-09-02T19:20Z",
+   "classType": "M3.0",
+   "sourceLocation": "N12E90"
+  },
+  {
+   "flrID": "2026-09-03T09:35:00-FLR-001",
+   "beginTime": "2026-09-03T09:35Z",
+   "peakTime": "2026-09-03T09:42Z",
+   "classType": "C2.2",
+   "sourceLocation": "N11E44"
+  },
+  {
+   "flrID": "2026-09-04T07:45:00-FLR-001",
+   "beginTime": "2026-09-04T07:45Z",
+   "peakTime": "2026-09-04T07:53Z",
+   "classType": "M1.2",
+   "sourceLocation": "N14E71"
+  },
+  {
+   "flrID": "2026-09-04T19:02:00-FLR-001",
+   "beginTime": "2026-09-04T19:02Z",
+   "peakTime": "2026-09-04T19:30Z",
+   "classType": "C6.7",
+   "sourceLocation": "N12E55"
+  },
+  {
+   "flrID": "2026-09-05T10:24:00-FLR-001",
+   "beginTime": "2026-09-05T10:24Z",
+   "peakTime": "2026-09-05T10:45Z",
+   "classType": "C6.4",
+   "sourceLocation": "N12E45"
+  },
+  {
+   "flrID": "2026-09-05T15:04:00-FLR-001",
+   "beginTime": "2026-09-05T15:04Z",
+   "peakTime": "2026-09-05T15:18Z",
+   "classType": "M1.0",
+   "sourceLocation": "S12W68"
+  },
+  {
+   "flrID": "2026-09-05T17:32:00-FLR-001",
+   "beginTime": "2026-09-05T17:32Z",
+   "peakTime": "2026-09-05T17:46Z",
+   "classType": "C8.5",
+   "sourceLocation": "N12E42"
+  },
+  {
+   "flrID": "2026-09-06T10:31:00-FLR-001",
+   "beginTime": "2026-09-06T10:31Z",
+   "peakTime": "2026-09-06T10:42Z",
+   "classType": "C5.0",
+   "sourceLocation": "N12E32"
+  },
+  {
+   "flrID": "2026-09-08T12:19:00-FLR-001",
+   "beginTime": "2026-09-08T12:19Z",
+   "peakTime": "2026-09-08T12:24Z",
+   "classType": "C2.4",
+   "sourceLocation": "N10W35"
+  },
+  {
+   "flrID": "2026-09-09T08:48:00-FLR-001",
+   "beginTime": "2026-09-09T08:48Z",
+   "peakTime": "2026-09-09T09:08Z",
+   "classType": "C3.4",
+   "sourceLocation": "N15W05"
+  },
+  {
+   "flrID": "2026-09-19T17:57:00-FLR-001",
+   "beginTime": "2026-09-19T17:57Z",
+   "peakTime": "2026-09-19T18:17Z",
+   "classType": "C3.3",
+   "sourceLocation": "N14E90"
+  }
+ ]
+}
