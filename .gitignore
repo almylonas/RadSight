@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+node_modules/
+dist/
+.vercel/
+esa_catalog.json
+.env
