@@ -101,11 +101,15 @@ Run the tests with `pip install -r requirements-dev.txt` then `pytest` (in `back
 
 ## Deploy to Vercel
 
-Two Vercel projects from the same Git repository:
+**One project (recommended).** `vercel.json` at the repository root uses Vercel
+Services (beta) to deploy both parts together on one domain: `/api/...` goes to the
+FastAPI backend, everything else to the React frontend.
 
-1. **Backend**: import the repo, set *Root Directory* to `backend`. Vercel finds the
-   FastAPI `app` in `backend/app.py`. Add `NASA_API_KEY` (and the ESA variables) under
-   Settings → Environment Variables. Check `https://<backend>.vercel.app/api/replay`.
-2. **Frontend**: import the same repo again, *Root Directory* `frontend`, framework
-   Vite. Add the environment variable `VITE_API_URL=https://<backend>.vercel.app`
-   (no trailing slash), then deploy.
+1. Import the repository at vercel.com/new. Leave *Root Directory* as the folder that
+   contains `vercel.json` (the repo root) and leave the preset as Vercel detects it.
+2. Optional: add `NASA_API_KEY` and the ESA variables under Environment Variables.
+3. Deploy. No `VITE_API_URL` is needed: the frontend calls `/api` on its own domain.
+
+**Two projects (fallback).** Delete `vercel.json`, then import the repo twice: once with
+*Root Directory* `backend` (preset FastAPI) and once with `frontend` (preset Vite,
+environment variable `VITE_API_URL=https://<backend>.vercel.app`).
