@@ -6,13 +6,13 @@ import {
 import { frameAt, loadTimeline } from "./lib/api";
 import { fullTime, STATUS_LABEL } from "./lib/format";
 import { Badge } from "./components/ui";
+import { Analytics } from "@vercel/analytics/react";
 import Overview from "./pages/Overview";
 import Crew from "./pages/Crew";
 import Environment from "./pages/Environment";
 import Forecast from "./pages/Forecast";
 import Mission from "./pages/Mission";
 import Sources from "./pages/Sources";
-import { Analytics } from "@vercel/analytics/next";
 
 const PAGES = [
   { id: "overview", label: "Overview", icon: LuLayoutDashboard, el: Overview },
