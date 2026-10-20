@@ -12,6 +12,7 @@ import Environment from "./pages/Environment";
 import Forecast from "./pages/Forecast";
 import Mission from "./pages/Mission";
 import Sources from "./pages/Sources";
+import { Analytics } from "@vercel/analytics/next";
 
 const PAGES = [
   { id: "overview", label: "Overview", icon: LuLayoutDashboard, el: Overview },
