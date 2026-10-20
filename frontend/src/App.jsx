@@ -194,6 +194,7 @@ export default function App() {
           )}
         </main>
       </div>
+      <Analytics />
     </div>
   );
 }
