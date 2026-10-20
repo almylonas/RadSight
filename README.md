@@ -98,18 +98,3 @@ Optional environment variables: `NASA_API_KEY` (DONKI, defaults to `DEMO_KEY`),
   S2, with no early warning) and reports the dose avoided.
 
 Run the tests with `pip install -r requirements-dev.txt` then `pytest` (in `backend`).
-
-## Deploy to Vercel
-
-**One project (recommended).** `vercel.json` at the repository root uses Vercel
-Services (beta) to deploy both parts together on one domain: `/api/...` goes to the
-FastAPI backend, everything else to the React frontend.
-
-1. Import the repository at vercel.com/new. Leave *Root Directory* as the folder that
-   contains `vercel.json` (the repo root) and leave the preset as Vercel detects it.
-2. Optional: add `NASA_API_KEY` and the ESA variables under Environment Variables.
-3. Deploy. No `VITE_API_URL` is needed: the frontend calls `/api` on its own domain.
-
-**Two projects (fallback).** Delete `vercel.json`, then import the repo twice: once with
-*Root Directory* `backend` (preset FastAPI) and once with `frontend` (preset Vite,
-environment variable `VITE_API_URL=https://<backend>.vercel.app`).
